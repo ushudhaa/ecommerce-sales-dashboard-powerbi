@@ -56,7 +56,8 @@ The dataset includes the following fields:
 ---
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here after uploading image to this repository.)*
+![Uploading image.png…]()
+
 
 Example:
 ```

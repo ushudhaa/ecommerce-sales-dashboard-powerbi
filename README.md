@@ -1,120 +1,258 @@
-📊 Ecommerce Sales Dashboard – Power BI Project
-📌 Project Overview
+# 📊 Ecommerce Sales Dashboard – Power BI
 
-This project presents an interactive Ecommerce Sales Dashboard built using Microsoft Power BI.
-The dashboard provides insights into sales performance, profit trends, customer behavior, and payment modes.
+## 📌 Project Overview
+This project presents an interactive **Ecommerce Sales Dashboard** built using **Microsoft Power BI**.  
+The dashboard provides key business insights into sales performance, profit trends, customer behavior, and payment methods.
 
-It helps businesses analyze:
+It is designed to help stakeholders make data-driven decisions through clear and interactive visualizations.
 
-Total Sales
+---
 
-Profit
+## 🛠️ Tools & Technologies
+- Microsoft Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / CSV Dataset
 
-Quantity Sold
+---
 
-Category & Sub-category Performance
+## 📈 Dashboard Features
+- 📌 KPI Cards (Total Sales, Total Profit, Total Quantity)
+- 📌 Category-wise Sales Analysis
+- 📌 Sub-category Performance
+- 📌 Monthly Sales Trend
+- 📌 Payment Mode Distribution
+- 📌 Interactive Filters & Slicers
 
-Payment Mode Distribution
+---
 
-🛠️ Tools & Technologies Used
+## 📂 Dataset Information
+The dataset includes the following fields:
 
-Power BI
+- Order Date  
+- Customer Name  
+- Category  
+- Sub-Category  
+- Sales Amount  
+- Profit  
+- Quantity  
+- Payment Mode  
 
-Microsoft Excel / CSV Dataset
+---
 
-Data Cleaning & Transformation using Power Query
+## 🎯 Key Business Insights
+- Identified top-performing product categories  
+- Analyzed most profitable sub-categories  
+- Observed customer payment preferences  
+- Tracked monthly revenue growth patterns  
 
-Data Modeling
+---
 
-DAX (Data Analysis Expressions)
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Explore the interactive dashboard and filters.
 
-📈 Dashboard Features
+---
 
-✅ KPI Cards (Total Sales, Total Profit, Total Quantity)
+## 📸 Dashboard Preview
+*(Add a screenshot of your dashboard here after uploading image to this repository.)*
 
-✅ Category-wise Sales Analysis
+Example:
+```
+![Dashboard Preview](dashboard.png)
+```
 
-✅ Sub-category Performance
+---
 
-✅ Payment Mode Distribution
+## 💡 Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Visualization
+- Business Intelligence Reporting
+- Dashboard Design
+- Analytical Thinking
+- Basic DAX Calculations
 
-✅ Monthly Sales Trend
+---
 
-✅ Interactive Filters & Slicers
+## 👨‍💻 About Me
+I am Ushudha Sanwa Limbu, an IT student passionate about Data Analytics and Business Intelligence.  
+Currently building hands-on projects using Power BI, SQL, and Python to strengthen practical skills and prepare for data-focused internships.
 
-📂 Dataset Information
+---
 
-The dataset contains the following fields:
+## 📬 Connect With Me
+- LinkedIn: # 📊 Ecommerce Sales Dashboard – Power BI
 
-Order Date
+## 📌 Project Overview
+This project presents an interactive **Ecommerce Sales Dashboard** built using **Microsoft Power BI**.  
+The dashboard provides key business insights into sales performance, profit trends, customer behavior, and payment methods.
 
-Customer Name
+It is designed to help stakeholders make data-driven decisions through clear and interactive visualizations.
 
-Category
+---
 
-Sub-Category
+## 🛠️ Tools & Technologies
+- Microsoft Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / CSV Dataset
 
-Amount
+---
 
-Profit
+## 📈 Dashboard Features
+- 📌 KPI Cards (Total Sales, Total Profit, Total Quantity)
+- 📌 Category-wise Sales Analysis
+- 📌 Sub-category Performance
+- 📌 Monthly Sales Trend
+- 📌 Payment Mode Distribution
+- 📌 Interactive Filters & Slicers
 
-Quantity
+---
 
-Payment Mode
+## 📂 Dataset Information
+The dataset includes the following fields:
 
-🎯 Business Insights Generated
+- Order Date  
+- Customer Name  
+- Category  
+- Sub-Category  
+- Sales Amount  
+- Profit  
+- Quantity  
+- Payment Mode  
 
-Identified highest revenue-generating category
+---
 
-Analyzed most profitable sub-categories
+## 🎯 Key Business Insights
+- Identified top-performing product categories  
+- Analyzed most profitable sub-categories  
+- Observed customer payment preferences  
+- Tracked monthly revenue growth patterns  
 
-Observed customer payment preferences
+---
 
-Tracked monthly sales trends
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Explore the interactive dashboard and filters.
 
-🚀 How to Use
+---
 
-Download the .pbix file from this repository.
+## 📸 Dashboard Preview
+*(Add a screenshot of your dashboard here after uploading image to this repository.)*
 
-Open it using Microsoft Power BI Desktop.
+Example:
+```
+![Dashboard Preview](dashboard.png)
+```
 
-Explore interactive visuals and filters.
+---
 
-📸 Dashboard Preview
+## 💡 Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Visualization
+- Business Intelligence Reporting
+- Dashboard Design
+- Analytical Thinking
+- Basic DAX Calculations
 
-(You can add screenshot here after uploading image to GitHub)
+---
 
-💡 Skills Demonstrated
+## 👨‍💻 About Me
+I am an IT student passionate about Data Analytics and Business Intelligence.  
+Currently building hands-on projects using Power BI, SQL, and Python to strengthen practical skills and prepare for data-focused internships.
 
-Data Cleaning
+---
 
-Data Visualization
+## 📬 Connect With Me
+- LinkedIn:# 📊 Ecommerce Sales Dashboard – Power BI
 
-Business Intelligence
+## 📌 Project Overview
+This project presents an interactive **Ecommerce Sales Dashboard** built using **Microsoft Power BI**.  
+The dashboard provides key business insights into sales performance, profit trends, customer behavior, and payment methods.
 
-Dashboard Design
+It is designed to help stakeholders make data-driven decisions through clear and interactive visualizations.
 
-Analytical Thinking
+---
 
-Basic DAX Calculations
+## 🛠️ Tools & Technologies
+- Microsoft Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Data Analysis Expressions)
+- Microsoft Excel / CSV Dataset
 
-👨‍💻 About Me
+---
 
-I am an IT student passionate about data analytics and business intelligence.
-Currently learning Python, SQL, and Power BI and building projects to strengthen my practical skills.
+## 📈 Dashboard Features
+- 📌 KPI Cards (Total Sales, Total Profit, Total Quantity)
+- 📌 Category-wise Sales Analysis
+- 📌 Sub-category Performance
+- 📌 Monthly Sales Trend
+- 📌 Payment Mode Distribution
+- 📌 Interactive Filters & Slicers
 
-📬 Connect With Me
+---
 
-🔗 LinkedIn: (Add your LinkedIn link here)
+## 📂 Dataset Information
+The dataset includes the following fields:
 
-💻 GitHub: (Add your GitHub profile link)
+- Order Date  
+- Customer Name  
+- Category  
+- Sub-Category  
+- Sales Amount  
+- Profit  
+- Quantity  
+- Payment Mode  
 
-If you want, I can also:
+---
 
-Make it more advanced & internship-ready
+## 🎯 Key Business Insights
+- Identified top-performing product categories  
+- Analyzed most profitable sub-categories  
+- Observed customer payment preferences  
+- Tracked monthly revenue growth patterns  
 
-Add DAX formulas section
+---
 
-Add professional badges
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Explore the interactive dashboard and filters.
 
-Or write a shorter version
+---
+
+## 📸 Dashboard Preview
+*(Add a screenshot of your dashboard here after uploading image to this repository.)*
+
+Example:
+```
+![Dashboard Preview](dashboard.png)
+```
+
+---
+
+## 💡 Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Visualization
+- Business Intelligence Reporting
+- Dashboard Design
+- Analytical Thinking
+- Basic DAX Calculations
+
+---
+
+## 👨‍💻 About Me
+I am an IT student passionate about Data Analytics and Business Intelligence.  
+Currently building hands-on projects using Power BI, SQL, and Python to strengthen practical skills and prepare for data-focused internships.
+
+---
+
+## 📬 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ushudha-sanwa-limbu-8ba84826a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+⭐ If you found this project helpful, feel free to give it a star!
+

@@ -224,15 +224,7 @@ The dataset includes the following fields:
 
 ---
 
-## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here after uploading image to this repository.)*
 
-Example:
-```
-![Dashboard Preview](dashboard.png)
-```
-
----
 
 ## 💡 Skills Demonstrated
 - Data Cleaning & Transformation
